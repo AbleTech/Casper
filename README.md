@@ -1,8 +1,6 @@
-# Casper
+# Abletech Blog Theme
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
-
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+Theme for Abletech's Ghost blog (blog.abletech.co.nz).
 
 ## Copyright & License
 
